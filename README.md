@@ -1,4 +1,4 @@
-# Loan Management System (LRMS) 💰
+# Loan Management System (LRMS) 
 
 ## Project Overview
 The Loan Management System (LRMS) is a web-based application developed to streamline financial operations for small to medium-scale institutions. It automates customer management, loan processing, and payment tracking through a centralized platform.
